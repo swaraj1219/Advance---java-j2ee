@@ -46,7 +46,7 @@ StringOperations.java : https://github.com/swaraj1219/Advance---java-j2ee/blob/m
 
 StringOperationsDemo.java : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/StringOperationsDemo.java
 
-TruncateStringDemo.java :
+TruncateStringDemo.java : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/TruncateStringDemo.java
 
 WordCountDemo.java :
 
