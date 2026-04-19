@@ -1,6 +1,6 @@
 # Advance---java-j2ee
 java lab programs
-
+exp1
 result p1 : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/result%20p1.png
 
 Screenshot 2026-04-19 153732.png (result p2): https://github.com/swaraj1219/Advance---java-j2ee/blob/main/Screenshot%202026-04-19%20153732.png
@@ -20,6 +20,11 @@ result p8 : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/result%2
 result p9 : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/result%20p9.png
 
 result p10 : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/result%20p10.png
+
+exp2
+
+StringOperationsDemo : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/StringOperationsDemo.java
+
 
 
 
