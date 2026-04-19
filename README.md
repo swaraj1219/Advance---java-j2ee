@@ -64,7 +64,7 @@ CountryCapitalDemo.java : https://github.com/swaraj1219/Advance---java-j2ee/blob
 
 CountryListDemo.java : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/CountryListDemo.java
 
-TabbedPaneCMYDemo.java :
+TabbedPaneCMYDemo.java : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/TabbedPaneCMYDemo.java
 
 TabbedPaneColorDemo.java :
 
