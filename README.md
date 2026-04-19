@@ -34,7 +34,7 @@ CountOccurences : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/Co
 
 NullOrEmptyCheck : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/NullOrEmptyCheck.java
 
-NumericCheckDemo.java :
+NumericCheckDemo.java : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/NumericCheckDemo.java
 
 PalindromeCheck.java :
 
