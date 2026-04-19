@@ -32,7 +32,7 @@ CapitalizeWordsDemo : https://github.com/swaraj1219/Advance---java-j2ee/blob/mai
 
 CountOccurences : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/CountOccurrences.java
 
-NullOrEmptyCheck :
+NullOrEmptyCheck : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/NullOrEmptyCheck.java
 
 NumericCheckDemo.java :
 
