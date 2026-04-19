@@ -42,7 +42,7 @@ RemoveWhitespaceDemo.java : https://github.com/swaraj1219/Advance---java-j2ee/bl
 
 ReverseStringDemo.java : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/ReverseStringDemo.java
 
-StringOperations.java :
+StringOperations.java : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/StringOperations.java
 
 StringOperationsDemo.java :
 
