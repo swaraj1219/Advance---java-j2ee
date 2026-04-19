@@ -28,6 +28,32 @@ StringOperationsDemo : https://github.com/swaraj1219/Advance---java-j2ee/blob/ma
 PerformanceTest.java : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/PerformanceTest.java
 
 exp3
+CapitalizeWordsDemo : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/CapitalizeWordsDemo.java
+
+CountOccurences : 
+
+NullOrEmptyCheck :
+
+NumericCheckDemo.java :
+
+PalindromeCheck.java :
+
+RemoveWhitespaceDemo.java :
+
+ReverseStringDemo.java : 
+
+StringOperations.java :
+
+StringOperationsDemo.java :
+
+TruncateStringDemo.java :
+
+WordCountDemo.java :
+
+
+
+
+
 
 
 
