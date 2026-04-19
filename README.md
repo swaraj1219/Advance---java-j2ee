@@ -38,7 +38,7 @@ NumericCheckDemo.java : https://github.com/swaraj1219/Advance---java-j2ee/blob/m
 
 PalindromeCheck.java : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/PalindromeCheck.java
 
-RemoveWhitespaceDemo.java :
+RemoveWhitespaceDemo.java : https://github.com/swaraj1219/Advance---java-j2ee/blob/main/RemoveWhitespaceDemo.java
 
 ReverseStringDemo.java : 
 
